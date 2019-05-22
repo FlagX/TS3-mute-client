@@ -7,7 +7,7 @@ Make sure you have installed all of the following prerequisites on your machine:
 * Lua Plugin - [Download & Install TS3 Plugin](https://www.myteamspeak.com/addons/1ea680fd-dfd2-49ef-a259-74d27593b867).
 
 ## Setup
-* Go to your Lua plugin directory (e.g. C:\Users\[your username]\AppData\Roaming\TS3Client\plugins\lua_plugin)
+* Go to your Lua plugin directory (e.g. C:\Users\\[your username]\AppData\Roaming\TS3Client\plugins\lua_plugin)
 * Copy the clientmute folder into this directory.
 * Start teamspeak and activate the Lua Plugin (Tools -> Options -> Addons -> My Addons -> Plugins -> Lua Plugin)
 Hint: You must not be connected to a server otherwise the Lua plugin does not show up in the list
